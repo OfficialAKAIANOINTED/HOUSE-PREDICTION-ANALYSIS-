@@ -1,0 +1,21 @@
+# Kaggle data (download separately; don't commit)
+train.csv
+test.csv
+*.csv
+submission*.csv
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+# Jupyter / Colab
+.ipynb_checkpoints/
+# Models / outputs
+*.pkl
+*.joblib
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
